@@ -4,8 +4,8 @@ public class Project1 {
     //I need new house
     public static void main(String[] args) {
         System.out.println("I am looking house in london");
-        System.out.println("My budget 4k");
-        System.out.println("I need 3 bedrooms");
+        System.out.println("My budget 6k");
+        System.out.println("I need 4 bedrooms");
         System.out.println("I need 2 bathrooms");
         System.out.println("I need size 959 sq.ft");
         System.out.println("Near school");
